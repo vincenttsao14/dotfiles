@@ -1,4 +1,4 @@
 [alias]
 	c = commit -am
-	fpush = push --force
 	s = status
+	p = push
