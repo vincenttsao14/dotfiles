@@ -2,3 +2,6 @@
 	c = commit -am
 	s = status
 	p = push
+	ch = checkout
+	r = reset
+	br = branch
