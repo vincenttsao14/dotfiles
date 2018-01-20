@@ -5,3 +5,4 @@
 	ch = checkout
 	r = reset
 	br = branch
+	pl = pull
